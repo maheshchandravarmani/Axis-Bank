@@ -1,0 +1,9 @@
+<search:name>schedule1</search:name>" +
+"         <search:crawlingMode>ACCEPT_ALL</search:crawlingMode>" +
+"         <search:recrawlPolicy>PROCESS_CHANGED</search:recrawlPolicy>" +
+"         <search:frequency>" +
+"            <search:manual/>" +
+"         </search:frequency>" +
+"      <search:assignedSources>" +
+"        <search:assignedSource>web1</search:assignedSource>" +
+"      </search:assignedSources>" +
