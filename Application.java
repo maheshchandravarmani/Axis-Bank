@@ -18,4 +18,18 @@ System.out.println("Created schedule...");
           null,
           null,
           "en"
+#code changes by developer Charan for Axis Bank on 4th April 2024
+System.out.println("Started schedule..."); 
+        System.out.println("Waiting 30 seconds to get status...");
+        Thread.sleep( 30000 );
+ 
+        // 6. Use object key above to get schedule state
+        oo = adminPort.getState(
+          "schedule",
+          objectKey,
+          null, // request all state properties
+          credentials,
+          null,
+          "en"
+Need for feature2.1
         );
