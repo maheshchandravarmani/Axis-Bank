@@ -7,3 +7,5 @@
 "      <search:assignedSources>" +
 "        <search:assignedSource>web1</search:assignedSource>" +
 "      </search:assignedSources>" +
+Changes made on 8th April to check whether git fetch command is working or not
+Changes made by mahesh
